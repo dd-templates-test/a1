@@ -1,0 +1,1 @@
+from sluggg import app
